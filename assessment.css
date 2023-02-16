@@ -2,7 +2,8 @@
 body{
     background-color: #add8e6;
     color: #ffffff;
-     margin-right: auto;
+    width:viewport;
+    margin-right: auto;
     margin-left: auto;
  }
 }
