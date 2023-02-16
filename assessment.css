@@ -1,7 +1,19 @@
+@media screen and(max-width:480px){
 body{
     background-color: #add8e6;
     color: #ffffff;
-    
+     margin-right: auto;
+    margin-left: auto;
+ }
+}
+@media screen and(min-width:1280px){
+    body{
+    background-color: #add8e6;
+        color: #ffffff;
+        width:500px;
+     margin-right: auto;
+    margin-left: auto;
+    }
 }
 button{
     color: #ffffff;
